@@ -4,4 +4,5 @@ git has a mutable index called stage.
 git tracks changes.
 create a new branch named dev is quickly!! 
 11
-branch is quick & simple
+branch is quickly and simple.
+
